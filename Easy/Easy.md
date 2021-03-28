@@ -1,0 +1,2 @@
+# Task-1
+### Easy: (1) Download the mcmcse package from CRAN and use the function ess on a vector foo of length 1e4 randomly drawn from a standard normal distribution. (2) Make a random matrix of size 10 x 10 and produce only the eigenvalues of the matrix.
